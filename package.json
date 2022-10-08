@@ -1,0 +1,18 @@
+{
+  "name": "sss82-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ไม่มีเลขอั้น✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ไม่มีเลขอั้น",
+"เว็บหวยออนไลน์ที่มาแรงที่สุดในตอนนี้",
+"หวย lottovip2",
+"คาสิโนหวย 24",
+"เว็บหวยสดสด"
+],
+  "repository": "https://github.com/setteebet/sss82-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
